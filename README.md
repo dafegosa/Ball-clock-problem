@@ -1,3 +1,8 @@
+This proyect is online! https://brave-hawking-c1ee6a.netlify.app/
+
+If you want to see the algorithm to calculate the number of days, go to the file Calculate.js in the components folder
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
